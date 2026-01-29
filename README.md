@@ -25,6 +25,9 @@
 - 🎮 [Irmãos Encanadores](https://nicholas10souza.github.io/PROJETO-MARIO-ENCANADOR/)  
 - 🚚 [Site Transportadora](https://nicholas10souza.github.io/PROJETO-TRANSPORTADORA/)  
 - 🛒 [E-commerce Responsivo](https://nicholas10souza.github.io/PROJETO-ECOMMERCE/)  
+- 🚚 [Site Meu Portfólio](https://nicholas10souza.github.io/PROJETO-PORTFOLIO/)  
+- 🛒 [Site NS Financeira](https://nicholas10souza.github.io/PROJETO-FINANCEIRA/)  
+
 
 *(Mais projetos no meu portfólio e repositórios aqui no GitHub!)*
 
