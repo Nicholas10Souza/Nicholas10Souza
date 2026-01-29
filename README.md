@@ -23,7 +23,7 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 
 ## 🔧 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b13FupbJiqRDcYQbK4BfEcAJ6S7eA8I5oQ&s" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </div>
 
 ---
