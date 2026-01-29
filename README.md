@@ -2,13 +2,20 @@
 
 ## 💻 **Programador & Desenvolvedor Front - End** 
 
-• Apaixonado por tecnologia • Estudante DevClub (FullStack)• 
+• Apaixonado por tecnologia • 
+
+Sou um profissional com 21 anos de experiência em logística e produção, atualmente atuando na área de programação, área que sou apaixonado. 
+Tenho um período de dois anos, como empreendedor de marketing multinível, representado uma empresa americana, com apresentações de produtos e vendas diretas. 
+Possuo experiência prática com desenvolvimento web, com projetos, utilizando HTML, CSS, Javascript, interfaces criativas com responsividade, com boas práticas e códigos organizados. 
+Tenho como características, visão ampla de negócios, analítico, fácil aprendizado, disciplina, responsabilidade, pro-atividade e trabalho em equipe. 
+Busco oportunidades para colaborar com equipes inovadoras e continuar minha evolução profissional. 
+Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em realidade e estou comprometido em me tornar um desenvolvedor de sucesso.
 
 
 ## 🚀 Sobre mim 
 - 📚 Experiência com **HTML, CSS, JavaScript** e criação de sites responsivos. 
 - 🖥️ Criando soluções modernas e com foco na experiência do usuário.
-- 📦 Projetos já criados: ** Site Irmãos Encanadores Mario Bros, Transportadora & E-commerce **
+- 📦 Projetos já criados: ** 5 **
 - 🎓 Atualmente estudando **Full-Stack Development** no DevClub. 
 - 🌱 Estou sempre aprendendo e evoluindo!
  
