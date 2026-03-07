@@ -43,7 +43,7 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas10souza&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
 </div>
 
 ---
