@@ -21,6 +21,12 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
  
 ---
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas10Souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas10Souza&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
 ## 🛠️ Tecnologias e Ferramentas
 
 <div class="flex flex-wrap justify-center gap-6 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
