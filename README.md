@@ -56,14 +56,9 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas10Souza&show_icons=true&theme=buefy&title_color=f589c7&icon_color=f589c7&text_color=ffffff&bg_color=1c1c20&border_color=f589c7&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas10Souza&show_icons=true&theme=buefy&title_color=f589c7&icon_color=f589c7&text_color=ffffff&bg_color=3e2723&border_color=f589c7&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas10Souza&layout=compact&langs_count=7&theme=buefy&title_color=f589c7&text_color=ffffff&bg_color=1c1c20&border_color=f589c7"/>
-  
-</div>
-<div>
-<a href="https://github.com/Nicholas10Souza">
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas10Souza&layout=compact&langs_count=7&theme=buefy&title_color=f589c7&text_color=ffffff&bg_color=3e2723&border_color=f589c7"/>
 </div>
 
 ---
