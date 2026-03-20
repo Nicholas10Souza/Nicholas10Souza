@@ -20,13 +20,6 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 - 🌱 Estou sempre aprendendo e evoluindo!
  
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
 ## 🛠️ Tecnologias e Ferramentas
 
 <div class="flex flex-wrap justify-center gap-6 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
@@ -70,18 +63,9 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 ## 🐍 Minhas contribuições em forma de Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicholas10Souza/Nicholas10Souza/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
