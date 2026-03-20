@@ -34,7 +34,7 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 
   <img alt="TailwindCSS" title="Tailwind CSS" class="w-8 h-8 md:w-9 md:h-9 hover:scale-110 transition-transform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40">
   
-  <img alt="Github" title="GitHub" class="w-8 h-8 md:w-9 md:h-9 hover:scale-110 transition-transform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="filter: brightness(0) invert(1);" width="40" height="40">
+  <img alt="Github" title="GitHub" class="w-8 h-8 md:w-9 md:h-9 hover:scale-110 transition-transform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(100%) brightness(200%);" width="40" height="40">
   
   <img alt="VScode" title="Visual Studio Code" class="w-8 h-8 md:w-9 md:h-9 hover:scale-110 transition-transform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
 </div>
