@@ -76,8 +76,12 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 
 ## 🌎 Contato
 📩 Email: nicholas10souza@gmail.com  
-💼 LinkedIn: <a href="https://www.linkedin.com/in/nicholas10souza/" target="_blank" rel="noopener noreferrer">Meu LinkedIn</a>  
-🌐 Portfólio: <a href="https://nicholas10souza.github.io/PROJETO-REACT-PORTIFOLIO-NICHOLAS-V2/" target="_blank" rel="noopener noreferrer">Clique aqui</a>
+<p>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/nicholas10souza/" target="_blank" rel="noopener noreferrer">Meu LinkedIn</a>
+</p>
+<p>
+  🕴🏽 <b>Portfólio:</b> <a href="https://nicholas10souza.github.io/PROJETO-REACT-PORTIFOLIO-NICHOLAS-V2/" target="_blank" rel="noopener noreferrer">Clique aqui</a>
+</p>
 
 ---
 
