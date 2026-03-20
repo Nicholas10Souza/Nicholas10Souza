@@ -47,6 +47,8 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 - 🛒 [E-commerce Responsivo](https://nicholas10souza.github.io/PROJETO-ECOMMERCE/)  
 - 👔 [Site Meu Portfólio](https://nicholas10souza.github.io/PROJETO-PORTFOLIO/)  
 - 💰 [Site NS Financeira](https://nicholas10souza.github.io/PROJETO-FINANCEIRA/)  
+- 🍛 [Site Restaurante](https://nicholas10souza.github.io/PROJETO-RESTAURANTE/)  
+- 🕴🏽 [Site Meu Portfólio V2](https://nicholas10souza.github.io/PROJETO-REACT-PORTIFOLIO-NICHOLAS-V2/)  
 
 
 *(Mais projetos no meu portfólio e repositórios aqui no GitHub!)*
@@ -75,7 +77,7 @@ Sou fascinado pela capacidade que a tecnologia tem de transformar ideias em real
 ## 🌎 Contato
 📩 Email: nicholas10souza@gmail.com  
 💼 LinkedIn: <a href="https://www.linkedin.com/in/nicholas10souza/" target="_blank">Meu LinkedIn</a>  
-🌐 Portfólio: <a href="https://nicholas10souza.github.io/PROJETO-PORTFOLIO/" target="_blank">Clique aqui</a>
+🌐 Portfólio: <a href="https://nicholas10souza.github.io/PROJETO-REACT-PORTIFOLIO-NICHOLAS-V2/" target="_blank">Clique aqui</a>
 
 ---
 
